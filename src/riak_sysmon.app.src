@@ -1,7 +1,7 @@
 {application, riak_sysmon,
  [
   {description, "Rate-limiting system_monitor event handler"},
-  {vsn, git},
+  {vsn, "3.0-dev"},
   {applications, [
                   kernel,
                   stdlib,
